@@ -1,4 +1,4 @@
-package maven prj;
+package mavenproject;
 
 import static org.junit.Assert.assertTrue;
 

@@ -1,4 +1,4 @@
-package maven prj;
+package mavenproject;
 
 /**
  * Hello world!
